@@ -1,4 +1,5 @@
 🌦️ Weather App — Previsão do Tempo em Tempo Real
+
 Aplicativo web desenvolvido com React para consulta de previsões climáticas atualizadas de qualquer cidade do mundo.
 Este projeto consome a API pública da OpenWeather, fornecendo dados em tempo real como temperatura, descrição do clima, e previsão para os próximos dias.
 
